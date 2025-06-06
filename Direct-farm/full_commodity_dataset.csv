@@ -1,0 +1,9 @@
+your-nextjs-project/
+├── public/
+│   └── data/
+│       └── full_commodity_dataset.csv ✅
+├── app/
+│   └── customer/
+│       └── page.jsx
+├── next.config.js
+├── package.json
